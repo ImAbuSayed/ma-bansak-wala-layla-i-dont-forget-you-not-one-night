@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Ma Bansak Wala Layla – I Don't Forget You, Not One Night |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 26, 2026 |
+| Lyric Writing Date | April 25, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ma-bansak-wala-layla-i-dont-forget-you-not-one-night/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
