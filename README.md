@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 25, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ma-bansak-wala-layla-i-dont-forget-you-not-one-night/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [License this song: Ma Bansak Wala Layla – I Don't Forget You, Not One Night](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
